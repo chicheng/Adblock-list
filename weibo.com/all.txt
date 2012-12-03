@@ -1,0 +1,27 @@
+[Adblock Plus]
+! http://chicheng.me/
+! Expires: 7 days
+weibo.com##.W_ico16.ico_club
+weibo.com##a[action-type=feed_list_attitude]
+weibo.com##a[action-type=feed_list_attitude]+i
+weibo.com##div#pl_business_enterpriseWeiboNew
+weibo.com##div#pl_content_commentSettingsNav
+weibo.com##div#pl_content_commentTopNav
+weibo.com##div#pl_content_publisherTop div.key.S_textb
+weibo.com##div#pl_leftnav_app
+weibo.com##div#pl_leftnav_group
+weibo.com##div#pl_rightmod_ads35
+weibo.com##div#pl_rightmod_ads36
+weibo.com##div#pl_rightmod_feedback
+weibo.com##div#pl_rightmod_helpcomment
+weibo.com##div#pl_rightmod_noticeboard
+weibo.com##div#pl_rightmod_reportentry
+weibo.com##div#pl_rightmod_yunying
+weibo.com##div#trustPagelet_recom_allinonev5
+weibo.com##div#trustPagelet_recom_interestv5
+weibo.com##div#trustPagelet_recom_memberv5
+weibo.com##div#trustPagelet_zt_hottopicv5
+weibo.com##div.WB_from>.S_txt2
+weibo.com##div.WB_from>.S_txt2+a
+weibo.com##a[action-type=feed_list_like]
+weibo.com##a[action-type=feed_list_like]+i
