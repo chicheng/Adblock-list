@@ -1,6 +1,7 @@
 [Adblock Plus]
 ! http://chicheng.me/
 ! Expires: 7 days
+! 保留分组及热门话题
 ! ### 左边栏 ###
 ! 分组
 ! weibo.com##div#pl_leftnav_group
@@ -21,6 +22,8 @@ weibo.com##a[action-type=feed_list_like]
 weibo.com##a[action-type=feed_list_like]+i
 ! 微博推广
 weibo.com##div[feedtype=ad]
+! 淘宝商品推广
+weibo.com##div.popular_buss 
 ! ### 右边栏 ###
 ! 个人信息下文字
 weibo.com##div#pl_rightmod_yunying
