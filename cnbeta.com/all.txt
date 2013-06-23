@@ -1,0 +1,6 @@
+[Adblock Plus]
+! http://chicheng.me/
+! Expires: 7 days
+! ### 左边栏 ###
+! 热点
+cnbeta.com##section.main_content_left>section.cb_box
