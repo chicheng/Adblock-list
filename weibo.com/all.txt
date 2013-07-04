@@ -27,16 +27,10 @@ weibo.com##div.popular_buss
 ! 个人信息下文字
 weibo.com##div#pl_rightmod_yunying
 weibo.com##div#trustPagelet_checkin_lotteryv5
-! 可能感兴趣的人
-weibo.com##div#trustPagelet_recom_interestv5
-! 活动
-weibo.com##div#pl_rightmod_ads35
-! 热门话题
-weibo.com##div#trustPagelet_zt_hottopicv5
+! 可能感兴趣的人 热门话题 微群
+weibo.com##div#trustPagelet_indexright_recom
 ! 会员专区
 weibo.com##div#trustPagelet_recom_memberv5
-! 微群 | 微刊 | 应用
-weibo.com##div#trustPagelet_recom_allinonev5
 ! 
 weibo.com##div#pl_rightmod_ads36
 ! 公告
