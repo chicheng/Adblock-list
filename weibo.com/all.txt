@@ -35,3 +35,6 @@ weibo.com##div#trustPagelet_recom_memberv5
 weibo.com##div#pl_rightmod_ads36
 ! 公告
 weibo.com##div#pl_rightmod_noticeboard
+! 右边私信联系人列表中广告账号
+weibo.com##div#WB_webim ul[node-type=recentsContainer]
+weibo.com##div.speacc_user
