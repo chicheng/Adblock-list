@@ -23,6 +23,8 @@ weibo.com##a[action-type=feed_list_like]+i
 weibo.com##div[feedtype=ad]
 ! 淘宝商品推广
 weibo.com##div.popular_buss 
+! 好友图书、好友关注
+weibo.com##div[node-type=feed_spread]
 ! ### 右边栏 ###
 ! 个人信息下文字
 weibo.com##div#pl_rightmod_yunying
