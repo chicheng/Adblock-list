@@ -4,3 +4,5 @@
 ! ### 左边栏 ###
 ! 热点
 cnbeta.com##section.main_content_left>section.cb_box
+! 文章摘要右下角文字
+cnbeta.com##div.tools>div.time
