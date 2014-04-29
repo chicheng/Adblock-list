@@ -1,0 +1,4 @@
+[Adblock Plus]
+! http://chicheng.me/
+! Expires: 7 days
+bbs.tigtag.com##div.ad_942x70
