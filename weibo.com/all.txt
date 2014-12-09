@@ -8,14 +8,13 @@
 weibo.com##div#pl_leftnav_app
 ! ### 正文栏 ###
 ! 输入框上文字
-weibo.com##div#pl_content_publisherTop div.key.S_textb
+weibo.com##div#div[node-type=recommendTopic]
 ! 输入框下横幅
 weibo.com##div#pl_content_biztips
 ! 微博达人图标
 weibo.com##.W_ico16.ico_club
 ! 来自 [App]
-weibo.com##div.WB_from>.S_txt2
-weibo.com##div.WB_from>.S_txt2+a
+weibo.com##div.WB_from>.S_txt2[action-type=app_source]
 ! 喜欢 桃心
 weibo.com##a[action-type=feed_list_like]
 weibo.com##a[action-type=feed_list_like]+i
@@ -33,10 +32,13 @@ weibo.com##div#trustPagelet_checkin_lotteryv5
 weibo.com##div#trustPagelet_indexright_recom
 ! 会员专区
 weibo.com##div#trustPagelet_recom_memberv5
+weibo.com##div#v6_trustPagelet_recom_member
 ! 
 weibo.com##div#pl_rightmod_ads36
 ! 公告
 weibo.com##div#pl_rightmod_noticeboard
+! 新版微博使用指南
+weibo.com##div#v6_pl_rightmod_updatev6
 ! 右边私信联系人列表中广告账号
 weibo.com##div#WB_webim ul[node-type=recentsContainer]
 weibo.com##div.speacc_user
